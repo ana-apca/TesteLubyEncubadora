@@ -1,0 +1,7 @@
+C:\Users\Casa8\source\repos\TesteLuby\TesteLuby\obj\Debug\TesteLuby.csprojAssemblyReference.cache
+C:\Users\Casa8\source\repos\TesteLuby\TesteLuby\obj\Debug\TesteLuby.csproj.CoreCompileInputs.cache
+C:\Users\Casa8\source\repos\TesteLuby\TesteLuby\bin\Debug\TesteLuby.exe.config
+C:\Users\Casa8\source\repos\TesteLuby\TesteLuby\bin\Debug\TesteLuby.exe
+C:\Users\Casa8\source\repos\TesteLuby\TesteLuby\bin\Debug\TesteLuby.pdb
+C:\Users\Casa8\source\repos\TesteLuby\TesteLuby\obj\Debug\TesteLuby.exe
+C:\Users\Casa8\source\repos\TesteLuby\TesteLuby\obj\Debug\TesteLuby.pdb
